@@ -1,6 +1,6 @@
 {
-  "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
+  "name": "Funny rabbit Rapid deployment",
+  "description": "Deploy funny rabbit to Heroku.",
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
      "ENCRYPT": {
@@ -28,6 +28,6 @@
      }
   },
   "website": "",
-  "repository": "",
+  "repository": "https://github.com/IL1ne/funny-rabbit-heroku",
   "stack": "container"
  }
